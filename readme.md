@@ -2,7 +2,7 @@
 ## I make this clone using Html and Tailwind css.
 ## This clone is Responsive.
 
-[Live link]()
+[Live link](https://sensational-capybara-79aea6.netlify.app/)
 
 # Output images-
 
